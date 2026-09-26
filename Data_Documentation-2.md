@@ -18,8 +18,8 @@
 
 | Variable Name | Readable Name | Units | Allowed Values | Definition |
 |---|---|---|---|---|
-| `observation_date` | Observation Date | Calendar date (YYYY-MM-DD) | 1992-02-01 to 2026-07-01, monthly, no gaps | The calendar month the record applies to. |
-| `AMTMNO` | Manufacturers' New Orders | Millions of $ | ~223,500 to 665,895 | The total dollar value of new orders received by U.S. manufacturers that month, net of cancellations, seasonally adjusted. |
+| `observation_date` | Observation Date | Calendar date (YYYY-MM-DD) | 1992-02-01 to 2026-07-01, monthly | The calendar month the record applies to. |
+| `AMTMNO` | Manufacturers' New Orders | Millions of $ | 223,500 to 665,895 | The total dollar value of new orders received by U.S. manufacturers that month, net of cancellations, seasonally adjusted. |
 
 
 ## 3. Data Collection Methodology
