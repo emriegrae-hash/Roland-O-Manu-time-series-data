@@ -31,5 +31,3 @@ The survey is released monthly: an advance estimate comes out about a week after
 ## 4. Why This Dataset Intrigues Me
 
 What intrigues me about this dataset is that it's real-life manufacturing data that shows real seasonality. When new orders spike or drop sharply, it cascades downstream — capacity gets tight or slack, suppliers get squeezed or under-utilized, and inventory strategy has to shift. Practicing forecasting on this series is practicing the exact skill of anticipating that cascade before it hits.
-
-U.S. Census Bureau, Manufacturers' New Orders: Total Manufacturing [AMTMNO], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/AMTMNO.
